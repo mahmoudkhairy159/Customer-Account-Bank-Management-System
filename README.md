@@ -6,3 +6,4 @@ Here, you can create a new account, update information of an existing account, v
 
 Overall, with this project, you can perform banking activities like in a REAL bank. Bank management mini project in C++ is a console application without graphics.
 
+![image](https://user-images.githubusercontent.com/45402534/127757474-7b02d465-1e2e-4062-bdf3-3e88c5155651.png)
